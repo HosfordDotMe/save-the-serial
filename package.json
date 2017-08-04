@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Save the Serial",
   "main": "src/app.js",
-  "dependencies": {},
+  "dependencies": {
+    "angular": "^1.6.5"
+  },
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
